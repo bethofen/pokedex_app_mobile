@@ -1,6 +1,3 @@
-# miniproject
-
-
 <div align="center"> 
   <h1> MyApp pokedex with restful api </h1>
   <p>show pokedex and random pokemon screen</p>
