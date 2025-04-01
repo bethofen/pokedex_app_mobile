@@ -3,7 +3,7 @@
 
 <div align="center"> 
   <h1> MyApp pokedex with restful api </h1>
-<img src="https://github.com/bethofen/pokedex_app_mobile/blob/master/1.png" alt="sunji">
+<img src="https://github.com/bethofen/pokedex_app_mobile/blob/master/1.png" alt="sunji" width="400">
 </div>
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
